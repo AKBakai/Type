@@ -1,0 +1,42 @@
+'''
+a = 2**3
+b = 3**2
+if a>b:
+	print('a bolshe')
+elif a<b:
+	print('a menshe')
+'''
+
+'''
+a = int(input('vedite chislo'))
+if a>=0 and a<21:
+	print('razresheno')
+elif a>=57 and a<100:
+	print('ok')
+else:
+	print('nerazresheno')
+'''
+
+'''
+a = int(input('vedite chislo'))
+if a%2==0 and a%3==0 and a**2>1000:
+	print('yes')
+else:
+	print('no')
+'''
+
+'''
+a=10//5
+b=10/5
+if a==b:
+	print(a+b)
+else:
+	print('no')
+'''
+
+
+a=10
+b=5
+if a>=0 and b>=0:
+	print('ok')
+
